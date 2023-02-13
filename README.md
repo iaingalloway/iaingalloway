@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Iain Galloway. I build software and play music.
+
 <!--
 **iaingalloway/iaingalloway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
