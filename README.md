@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Iain Galloway. I build software and make music.
+I'm Iain. I build software and make music.
